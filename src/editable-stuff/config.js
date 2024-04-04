@@ -15,7 +15,7 @@ const mainBody = {
   firstName: "Raul",
   middleName: "",
   lastName: "Bolivar",
-  message: " Passionate about changing the world with technology. ",
+  message: " An achievement a day leads us to a year of success..Passionate about changing the world with technology. ",
   icons: [
     {
       image: "fa-github",
